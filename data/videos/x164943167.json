@@ -8,7 +8,7 @@
     "sourceId": "4",
     "VIDEO_LENGTH": "SHORT",
     "video_type": null,
-    "status": "pending",
+    "status": "approved",
     "visibility": "1",
     "category_id_1": null,
     "category_id_2": null,
@@ -50,12 +50,6 @@
             "1280": "\/\/v-dev.tvpage.com\/1758166\/164943167\/thumbnail\/image-thumbnail-1280-2dea88e8b74cbd5adfa6c3dfb5ff1eb5.jpg"
         }
     },
-    "transcripts": "",
-    "VV_VI": "",
-    "CVV_VI": "",
-    "engagement_score": "",
-    "conversion_score": "",
-    "metrics_statistics": "",
     "delete": "",
     "notes": "",
     "uploader": "",
