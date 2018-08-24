@@ -1,0 +1,55 @@
+{
+    "title": "Latest Videos",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1521846969",
+    "date_modified": "1522370073",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "156470538",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "Latest-Videos",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "add": "videos",
+                "conditions": {
+                    "order": "none",
+                    "lastNDays": "",
+                    "limit": "",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {
+                        "Web_Offered": "Y",
+                        "Web_Disabled": "N"
+                    }
+                },
+                "options": {
+                    "channel": "114661406"
+                },
+                "extras": {
+                    "channelName": "Latest Videos"
+                }
+            }
+        ],
+        "productBlock": {
+            "match": "all",
+            "recommended": true,
+            "attributes": {
+                "Web_Offered": "Y",
+                "Web_Disabled": "N"
+            }
+        }
+    },
+    "transcripts": null
+}
